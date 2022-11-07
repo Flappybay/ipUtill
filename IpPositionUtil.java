@@ -13,8 +13,6 @@ import java.util.Objects;
 
 /**
  * IP归属地查询工具类
- * @author yhb
- * @version 2.0
  * @date 2022/5/24 9:54
  **/
 @Slf4j
