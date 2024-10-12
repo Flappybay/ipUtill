@@ -3,7 +3,7 @@ package com.hzdongcheng.common.core.utils.ip;
 import cn.hutool.http.HttpUtil;
 import cn.hutool.json.JSONObject;
 import cn.hutool.json.JSONUtil;
-import com.hzdongcheng.common.core.utils.StringUtils;
+import com.test.common.core.utils.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
