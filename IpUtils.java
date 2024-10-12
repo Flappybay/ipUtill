@@ -1,6 +1,6 @@
-package com.hzdongcheng.common.core.utils.ip;
+package com.common.core.utils.ip;
 
-import com.test.common.core.utils.StringUtils;
+import com.common.core.utils.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
